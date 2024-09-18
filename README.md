@@ -28,7 +28,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Kuznetsov_R-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kuznetsov_R)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Kozlov_M-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MaksOST1)
 
 ### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
