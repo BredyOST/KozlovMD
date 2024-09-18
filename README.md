@@ -13,7 +13,7 @@
   Hello world! I'm Maksim Kozlov :)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src="https://komarev.com/ghpvc/?username=kuznetsovra&style=flat-square&logo=twitter&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=kozlovma&style=flat-square&logo=twitter&logoColor=white"/>
 
 
 
