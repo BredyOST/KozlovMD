@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMzOG9xNmYyZHlhbWt6YTg3YzM1enh6Mm1uemxsODR5MWY2M3RnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s63Jzew1dfO3j6nndV/giphy.gif" width="100"/>
+    <h2>👨‍💻 Веб-разработчик</h2>
 </div>
 
 
