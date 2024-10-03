@@ -69,7 +69,14 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - Написание Unit тестов (для компонентов, функций).
 
 **Стек технологий:**
-- React, Redux, React-Router, TypeScript, JavaScript, HTML5, SCSS.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 **Описание Web приложения:**
 - Работа осуществляется во внутреннем веб-приложении, в котором аккумулируется вся информация по технологическому режиму работы оборудования, расчетные комплексы, графики, режимные листы для внесения информации о текущем состоянии оборудования, отчетные данные и прочая информация.
@@ -94,6 +101,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - Создал кабинет для админа с возможностью обновления или изменения информации в разделах сайта: изменения категорий доступных на сайте, просмотр пользователей с возможностью изменения прав пользователя, изменения ключевых слов по которым осуществляется отбор новой информации для категорий, изменение цен на подписки, добавления файлов на сервер.
 
 **Стек технологий:**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
