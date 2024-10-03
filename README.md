@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h2>👨‍💻 Frontend Developer</h2>
 </div>
+  <h2>🚀 В поиске новых возможностей!</h2>
 
 
 
