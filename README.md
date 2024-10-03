@@ -53,6 +53,8 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuznetsovra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :briefcase: Опыт работы:
+<h3 style="color: #4CAF50;">:briefcase: Опыт работы:</h3>
+
 **Август 2022 — по настоящее время**  
 **ООО Газпром Добыча Ноябрск**  
 [noyabrsk-dobycha.gazprom.ru/](http://noyabrsk-dobycha.gazprom.ru/)  
